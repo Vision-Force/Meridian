@@ -29,3 +29,10 @@ These are deliberate, documented in the README and in
 - Antivirus may complain. Expected.
 - The hosts file is modified while you play, and Windows asks for permission to do it.
 - A `hosts.rrr-backup` file is left behind. Deliberate, and it holds nothing about you.
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
+  <br>
+  <sub>Vision Force Studio &middot; <a href="https://visionforceofficial.com">visionforceofficial.com</a></sub>
+</div>
