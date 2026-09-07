@@ -26,8 +26,6 @@ Meridian is unusual, so it is worth being specific about which parts we consider
 These are deliberate, documented in the README and in
 [the terms](https://visionforceofficial.com/legal), and reporting them tells us nothing we do not know:
 
-- Anti-cheat is switched off. That is how the project works.
-- Our code is injected into the game process. Same answer.
-- Antivirus software objects to the above. Expected.
+- Antivirus may complain. Expected.
 - The hosts file is modified while you play, and Windows asks for permission to do it.
 - A `hosts.rrr-backup` file is left behind. Deliberate, and it holds nothing about you.
