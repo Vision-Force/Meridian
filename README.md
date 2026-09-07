@@ -43,13 +43,13 @@ Meridian **signs you in, it never signs you up**, and it wont let you do any act
 3. Someone eventually will read your request, so it is not instant. We email you either way if you get perms or not so you dont feel ignored
 4. Once you are approved, generate your key on the same [page](https://visionforceofficial.com/rrr/rocketracingreborn) you requested access to [RRR](https://visionforceofficial.com/documentation/rocket-racing-reborn)
 
-## Read this before you install
-
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
   <br>
 </div>
+
+## Read this before you install
 
 Meridian has to change some things on your machine while you play, because the game was built to talk to
 Epic's servers and the only way to point it at ours is locally. All of it is undone when you close the
@@ -67,13 +67,13 @@ However if Meridian was killed rather than closed correctly, the certificate get
 The full detail is in [our terms](https://visionforceofficial.com/legal), sections 12 to 14. They are written
 to be read rather than agreed to
 
-## Updates
-
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
   <br>
 </div>
+
+## Updates
 
 Meridian checks for its new version on start and installs it after verifying a signature against a public key
 compiled into the launcher. An update that is not signed by us is refused, which is basically what makes an unauthenticated update feed safe
@@ -81,16 +81,16 @@ compiled into the launcher. An update that is not signed by us is refused, which
 **All rights reserved.** See [LICENSE](LICENSE). In short: you may download Meridian and run it to play
 Rocket Racing Reborn for as long as you have access to our services. You may NOT redistribute it, modify it, or work around the signin
 
-## Important
-Rocket Racing Reborn is a fan made preservation project. Vision Force Studio is **not affiliated with, endorsed
-by, or sponsored by Epic Games, Inc. or Psyonix LLC**. "Rocket Racing", "Fortnite" and "Unreal Engine" and
-all related names, logos and assets belong to Epic Games, Inc. or their respective owners. We do NOT distribute, own or sell Epic's game files
-
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
   <br>
 </div>
+
+## Important
+Rocket Racing Reborn is a fan made preservation project. Vision Force Studio is **not affiliated with, endorsed
+by, or sponsored by Epic Games, Inc. or Psyonix LLC**. "Rocket Racing", "Fortnite" and "Unreal Engine" and
+all related names, logos and assets belong to Epic Games, Inc. or their respective owners. We do NOT distribute, own or sell Epic's game files
 
 ## Something wrong?
 
