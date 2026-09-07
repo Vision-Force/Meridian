@@ -17,28 +17,25 @@
 
 ## What this is
 
-Rocket Racing was removed from Fortnite. **Rocket Racing Reborn** keeps it playable, and Meridian is the
-program that sets it up: it points the game at our servers instead of Epic's, starts it, and puts everything
-back the way it was when you close it.
+Rocket Racing was removed from Fortnite. [**Rocket Racing Reborn**](https://visionforceofficial.com/documentation/rocket-racing-reborn) keeps it playable, and Meridian is the
+program that sets it up. Means it points the game at our servers instead of the ones that got sunseted, then starts it, and puts everything back the way you know Rocket Racing
 
-This repository holds **no source code**. It exists so the installer has a permanent, public home that the
-launcher's own updater can reach. Releases are on the [releases page](https://github.com/Vision-Force/Meridian/releases).
+This repository holds **NO source code**. This only exists so the installer has a permanent, public place that the
+launcher's own auto updater can reach. Releases are on the [releases page](https://github.com/Vision-Force/Meridian/releases).
 
-## Getting in
+## How to play
 
-Meridian **signs you in, it never signs you up**, and it will not let you past the first screen without a key.
+Meridian **signs you in, it never signs you up**, and it wont let you do any action before you enter your Vision Force token.
 
-1. Make a Vision Force account at [visionforceofficial.com/rrr/login](https://visionforceofficial.com/rrr/login)
-2. Ask to play at [visionforceofficial.com/rrr/rocketracingreborn](https://visionforceofficial.com/rrr/rocketracingreborn)
-3. A person reads every request, so it is not instant. We email you either way
-4. Once approved, generate your key on that same page and paste it into Meridian
+- VISION FORCE TOKEN
+1. Make a [Vision Force account](https://visionforceofficial.com/rrr/login)
+2. Request permission [here](https://visionforceofficial.com/rrr/rocketracingreborn) to play [RRR](https://visionforceofficial.com/documentation/rocket-racing-reborn)
+3. Someone eventually will read your request, so it is not instant. We email you either way if you get perms or not so you dont feel ignored
+4. Once you are approved, generate your key on the same [page](https://visionforceofficial.com/rrr/rocketracingreborn) you requested access to [RRR](https://visionforceofficial.com/documentation/rocket-racing-reborn)
 
-**It does not download the game.** You need the build already. That part is being worked on and this page
-will say so plainly when it changes, rather than quietly implying otherwise.
+## Read this before you install
 
-## Before you install, read this part
-
-Meridian has to change some things on your computer while you play, because the game was built to talk to
+Meridian has to change some things on your machine while you play, because the game was built to talk to
 Epic's servers and the only way to point it at ours is locally. All of it is undone when you close the
 launcher, with two exceptions named below.
 
@@ -47,37 +44,25 @@ launcher, with two exceptions named below.
   never runs with those rights.
 - **A certificate is created and trusted**, in your user account's store rather than the computer's. It is
   restricted to five Epic domains and cannot vouch for any other site, or for any IP address at all.
-- **Anti-cheat is switched off**, and our code runs inside the game. That is what makes this work, and it is
-  also why your antivirus may object: loading code into a running program is exactly the behaviour it is
-  built to notice.
-- **Epic's launcher and Fortnite are closed** when you press Launch and again when Meridian exits. Anything
-  unsaved in those is lost.
+- **EMake sure that you dont have any Epic services open while before launching Meridian.** when you press Launch and again when Meridian exits. Anything unsaved in those is lost
 
-Two things survive a clean close: a copy of your original hosts file, left beside the real one as
-`hosts.rrr-backup`, and, if Meridian was killed rather than closed, the certificate, until the next time you
-run and close it normally.
+However if Meridian was killed rather than closed correctly, the certificate gets discarded the next time you open Meridian and close it normally. So please close the launcher correctly, otherwise you wont be able to use Epics services.
 
-The full detail is in [the terms](https://visionforceofficial.com/legal), sections 12 to 14. They are written
-to be read rather than agreed to.
+The full detail is in [our terms](https://visionforceofficial.com/legal), sections 12 to 14. They are written
+to be read rather than agreed to
 
 ## Updates
 
-Meridian checks for a new version on start and installs it after verifying a signature against a public key
-compiled into the launcher. An update that is not signed by us is refused before anything is run, which is
-what makes an unauthenticated update feed safe.
-
-## Not open source
-
-The source is private and stays private. This repository is a distribution point, not a mirror.
+Meridian checks for its new version on start and installs it after verifying a signature against a public key
+compiled into the launcher. An update that is not signed by us is refused, which is basically what makes an unauthenticated update feed safe
 
 **All rights reserved.** See [LICENSE](LICENSE). In short: you may download Meridian and run it to play
-Rocket Racing Reborn for as long as you have access, and that is the whole of the permission. You may not
-redistribute it, modify it, or work around the sign-in.
+Rocket Racing Reborn for as long as you have access to our services. You may NOT redistribute it, modify it, or work around the signin
 
-Rocket Racing Reborn is a fan preservation project. Vision Force Studio is **not affiliated with, endorsed
+## Important
+Rocket Racing Reborn is a fan made preservation project. Vision Force Studio is **not affiliated with, endorsed
 by, or sponsored by Epic Games, Inc. or Psyonix LLC**. "Rocket Racing", "Fortnite" and "Unreal Engine" and
-all related names, logos and assets belong to Epic Games, Inc. or their respective owners. We do not
-distribute Epic's game files.
+all related names, logos and assets belong to Epic Games, Inc. or their respective owners. We do NOT distribute, own or sell Epic's game files
 
 ## Something wrong?
 
