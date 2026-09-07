@@ -1,0 +1,20 @@
+# This repository is a distribution point. Releases carry the binaries; the repository does not.
+#
+# A 25 MB installer committed here would be in the history forever, would be re-cloned by everyone, and
+# would drift out of step with the release that is actually served. If a file matching one of these appears
+# in a working copy, it wandered in from a build and does not belong.
+*.exe
+*.msi
+*.zip
+*.nsis.zip
+*.sig
+
+# Signing keys. The private half decides what runs on every player's machine and must never be near a
+# repository, let alone a public one. It lives in ~/.tauri. This rule is a backstop, not the control.
+*.key
+*.pem
+*.pfx
+*.p12
+
+.DS_Store
+Thumbs.db
