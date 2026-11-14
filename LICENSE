@@ -20,7 +20,7 @@ exclusive, and it can be withdrawn.
 
 Without prior written permission from Vision Force Studio, you may not:
 
-  a. copy, publish, mirror, re-upload, sell, rent, lend or otherwise distribute
+  a. copy, publish, mirror, reupload, sell, rent, lend or otherwise distribute
      Meridian or any part of it, whether modified or not, and whether or not you
      charge for it;
 
@@ -29,7 +29,7 @@ Without prior written permission from Vision Force Studio, you may not:
   c. remove, obscure or alter any notice of authorship, ownership or origin;
 
   d. circumvent, disable or tamper with the access controls in it, including the
-     account sign-in and the invite key, or help anyone else to do so;
+     account signin and the invite key, or help anyone else to do so;
 
   e. use it, or anything taken from it, against Epic Games' own online services
      or against other players anywhere else.
@@ -48,10 +48,10 @@ That exception is meant seriously and is not a formality. Several jurisdictions,
 the European Union among them, grant rights of decompilation for
 interoperability, and of observation and study, which cannot be signed away. If
 you have those rights, you keep them, and a clause written to look absolute
-would simply be void rather than effective.
+would simply be nothing rather than effective.
 
 If you are looking at Meridian because you found something wrong with it, please
-read SECURITY.md. Reports are welcome and we would rather hear from you.
+read SECURITY.md. Reports are welcome and we would rather hear from you rather you abuse it.
 
 
 4. THIRD PARTY SOFTWARE
@@ -64,17 +64,17 @@ altered by this file.
 
 5. NOT AFFILIATED WITH EPIC GAMES
 
-Rocket Racing Reborn is a fan preservation project. Vision Force Studio is not
-affiliated with, endorsed by, or sponsored by Epic Games, Inc. or Psyonix LLC.
+Rocket Racing Reborn is a fan made preservation project. Vision Force Studio is not
+affiliated with, endorsed by, or sponsored by Epic Games, Inc.  Psyonix LLC.
 
-"Rocket Racing", "Fortnite", "Unreal Engine" and all related names, logos,
+"Fortnite", "Fortnite´s Rocket Racing", "Rocket Racing", "Unreal Engine" and all related names, logos,
 characters and assets are the property of Epic Games, Inc. or their respective
 owners. Meridian does not contain and does not distribute Epic Games' game
 files. Your right to possess and run the game itself is whatever your own
 licence for it says, and nothing here grants you one.
 
 
-6. NO WARRANTY
+6. WARRANTY
 
 MERIDIAN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
@@ -82,12 +82,12 @@ PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Read this part with what Meridian actually does in mind, because it is not
 boilerplate here. To point the game at our servers it changes your hosts file,
-trusts a certificate it creates, runs a local server on your machine, closes
-other programs, and loads our code into the running game with anti-cheat
-switched off. All of that is documented in README.md and in the terms at
+trusts a cert it creates, runs a local server on your machine, closes
+other programs, and loads our code into the running game with anti cheat
+disabled. All of that is documented in the terms at
 https://visionforceofficial.com/legal, sections 12 to 14. It is offered by
 volunteers, free, with no guarantee that it works, that it is safe on your
-particular machine, or that it will continue to exist.
+particular machine, or that it will continue to exist
 
 
 7. LIMITATION OF LIABILITY
@@ -106,9 +106,9 @@ caused by negligence, or for fraud.
 
 This permission ends automatically if you break any part of it, and it ends when
 your access to Rocket Racing Reborn ends. When it ends, stop using Meridian and
-delete your copies. Sections 2 to 7 survive.
+delete your copies. Sections 2 to 7 still apply.
 
 
-9. CONTACT
+---
 
 contact@visionforceofficial.com

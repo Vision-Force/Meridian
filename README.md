@@ -3,13 +3,13 @@
 
   <h1>Meridian</h1>
 
-  <p><strong>The launcher for Rocket Racing Reborn.</strong><br>
+  <p><strong>The launcher for Project Overdrive.</strong><br>
   A Vision Force Studio preservation project.</p>
 
   <p>
     <a href="https://github.com/Vision-Force/Meridian/releases/latest"><img src="https://img.shields.io/github/v/release/Vision-Force/Meridian?style=flat-square&label=latest&color=47d1ff" alt="Latest release"></a>
     <img src="https://img.shields.io/badge/platform-Windows-303034?style=flat-square" alt="Windows only">
-    <a href="https://visionforceofficial.com/rrr/rocketracingreborn"><img src="https://img.shields.io/badge/access-invite%20only-a855f7?style=flat-square" alt="Invite only"></a>
+    <a href="https://visionforceofficial.com/rrr/overdrive"><img src="https://img.shields.io/badge/access-invite%20only-a855f7?style=flat-square" alt="Invite only"></a>
   </p>
 </div>
 
@@ -21,7 +21,7 @@
 
 ## What this is
 
-Rocket Racing was removed from Fortnite. [**Rocket Racing Reborn**](https://visionforceofficial.com/documentation/rocket-racing-reborn) keeps it playable, and Meridian is the
+Rocket Racing was removed from Fortnite. [**Project Overdrive**](https://visionforceofficial.com/documentation/project-overdrive) keeps it playable, and Meridian is the
 program that sets it up. Means it points the game at our servers instead of the ones that got sunseted, then starts it, and puts everything back the way you know Rocket Racing
 
 This repository holds **NO source code**. This only exists so the installer has a permanent, public place that the
@@ -39,9 +39,9 @@ Meridian **signs you in, it never signs you up**, and it wont let you do any act
 
 - VISION FORCE TOKEN
 1. Make a [Vision Force account](https://visionforceofficial.com/rrr/login)
-2. Request permission [here](https://visionforceofficial.com/rrr/rocketracingreborn) to play [RRR](https://visionforceofficial.com/documentation/rocket-racing-reborn)
+2. Request permission [here](https://visionforceofficial.com/rrr/overdrive) to play [Project Overdrive](https://visionforceofficial.com/documentation/project-overdrive)
 3. Someone eventually will read your request, so it is not instant. We email you either way if you get perms or not so you dont feel ignored
-4. Once you are approved, generate your key on the same [page](https://visionforceofficial.com/rrr/rocketracingreborn) you requested access to [RRR](https://visionforceofficial.com/documentation/rocket-racing-reborn)
+4. Once you are approved, generate your key on the same [page](https://visionforceofficial.com/rrr/overdrive) you requested access to [Project Overdrive](https://visionforceofficial.com/documentation/project-overdrive)
 
 <div align="center">
   <br>
@@ -79,7 +79,7 @@ Meridian checks for its new version on start and installs it after verifying a s
 compiled into the launcher. An update that is not signed by us is refused, which is basically what makes an unauthenticated update feed safe
 
 **All rights reserved.** See [LICENSE](LICENSE). In short: you may download Meridian and run it to play
-Rocket Racing Reborn for as long as you have access to our services. You may NOT redistribute it, modify it, or work around the signin
+Project Overdrive for as long as you have access to our services. You may NOT redistribute it, modify it, or work around the signin
 
 <div align="center">
   <br>
@@ -88,7 +88,7 @@ Rocket Racing Reborn for as long as you have access to our services. You may NOT
 </div>
 
 ## Important
-Rocket Racing Reborn is a fan made preservation project. Vision Force Studio is **not affiliated with, endorsed
+Project Overdrive is a fan made preservation project. Vision Force Studio is **not affiliated with, endorsed
 by, or sponsored by Epic Games, Inc. or Psyonix LLC**. "Rocket Racing", "Fortnite" and "Unreal Engine" and
 all related names, logos and assets belong to Epic Games, Inc. or their respective owners. We do NOT distribute, own or sell Epic's game files
 
