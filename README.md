@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/mark.svg" width="96" alt="Vision Force">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/logo.svg" width="128" alt="Meridian">
 
   <h1>Meridian</h1>
 
@@ -7,19 +7,28 @@
   A Vision Force Studio preservation project.</p>
 
   <p>
-    <a href="https://github.com/Vision-Force/Meridian/releases/latest"><img src="https://img.shields.io/github/v/release/Vision-Force/Meridian?style=flat-square&label=latest&color=47d1ff" alt="Latest release"></a>
-    <img src="https://img.shields.io/badge/platform-Windows-303034?style=flat-square" alt="Windows only">
-    <a href="https://visionforceofficial.com/rrr/overdrive"><img src="https://img.shields.io/badge/access-invite%20only-a855f7?style=flat-square" alt="Invite only"></a>
+    <a href="https://github.com/Vision-Force/Meridian/releases/latest"><img src="https://img.shields.io/github/v/release/Vision-Force/Meridian?style=flat-square&label=latest&color=e9bd74&labelColor=16130f" alt="Latest release"></a>
+    <img src="https://img.shields.io/badge/platform-Windows-e9bd74?style=flat-square&labelColor=16130f" alt="Windows only">
+    <a href="https://visionforceofficial.com/rrr/overdrive"><img src="https://img.shields.io/badge/access-invite%20only-e9bd74?style=flat-square&labelColor=16130f" alt="Invite only"></a>
   </p>
+
+  <a href="https://github.com/Vision-Force/Meridian/releases/latest"><img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/btn-download.svg" width="30%" alt="Download the latest release"></a>
+  <a href="https://visionforceofficial.com"><img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/btn-website.svg" width="30%" alt="Website: visionforceofficial.com"></a>
+  <a href="https://discord.com/invite/Kn3yY2vYGY"><img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/btn-discord.svg" width="30%" alt="Discord"></a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/divider.svg" width="100%" alt="">
   <br>
 </div>
 
-## What this is
+<a id="what-this-is" name="what-this-is"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-what-dark.svg">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-what-light.svg" width="100%" alt="What this is">
+</picture>
 
 Rocket Racing was removed from Fortnite. [**Project Overdrive**](https://visionforceofficial.com/documentation/project-overdrive) keeps it playable, and Meridian is the
 program that sets it up. Means it points the game at our servers instead of the ones that got sunseted, then starts it, and puts everything back the way you know Rocket Racing
@@ -29,11 +38,16 @@ launcher's own auto updater can reach. Releases are on the [releases page](https
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/divider.svg" width="100%" alt="">
   <br>
 </div>
 
-## How to play
+<a id="how-to-play" name="how-to-play"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-play-dark.svg">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-play-light.svg" width="100%" alt="How to play">
+</picture>
 
 Meridian **signs you in, it never signs you up**, and it wont let you do any action before you enter your Vision Force token.
 
@@ -45,11 +59,16 @@ Meridian **signs you in, it never signs you up**, and it wont let you do any act
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/divider.svg" width="100%" alt="">
   <br>
 </div>
 
-## Read this before you install
+<a id="read-this-before-you-install" name="read-this-before-you-install"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-install-dark.svg">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-install-light.svg" width="100%" alt="Read this before you install">
+</picture>
 
 Meridian has to change some things on your machine while you play, because the game was built to talk to
 Epic's servers and the only way to point it at ours is locally. All of it is undone when you close the
@@ -69,11 +88,16 @@ to be read rather than agreed to
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/divider.svg" width="100%" alt="">
   <br>
 </div>
 
-## Updates
+<a id="updates" name="updates"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-updates-dark.svg">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-updates-light.svg" width="100%" alt="Updates">
+</picture>
 
 Meridian checks for its new version on start and installs it after verifying a signature against a public key
 compiled into the launcher. An update that is not signed by us is refused, which is basically what makes an unauthenticated update feed safe
@@ -83,16 +107,26 @@ Project Overdrive for as long as you have access to our services. You may NOT re
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/divider.svg" width="100%" alt="">
   <br>
 </div>
 
-## Important
+<a id="important" name="important"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-important-dark.svg">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-important-light.svg" width="100%" alt="Important">
+</picture>
 Project Overdrive is a fan made preservation project. Vision Force Studio is **not affiliated with, endorsed
 by, or sponsored by Epic Games, Inc. or Psyonix LLC**. "Rocket Racing", "Fortnite" and "Unreal Engine" and
 all related names, logos and assets belong to Epic Games, Inc. or their respective owners. We do NOT distribute, own or sell Epic's game files
 
-## Something wrong?
+<a id="something-wrong" name="something-wrong"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-help-dark.svg">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-help-light.svg" width="100%" alt="Something wrong">
+</picture>
 
 Security issues: see [SECURITY.md](SECURITY.md).
 
@@ -101,7 +135,7 @@ Anything else: [contact@visionforceofficial.com](mailto:contact@visionforceoffic
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/divider.svg" width="100%" alt="">
   <br>
   <sub>Vision Force Studio &middot; <a href="https://visionforceofficial.com">visionforceofficial.com</a></sub>
 </div>
