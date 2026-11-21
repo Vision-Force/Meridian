@@ -9,10 +9,10 @@ part of the project being visible.
 1. WHAT YOU MAY DO
 
 You may download Meridian and run it on computers you own or control, for the
-sole purpose of playing Rocket Racing Reborn, for as long as Vision Force Studio
+sole purpose of playing Vision Force Studio games, for as long as Vision Force Studio
 grants your account access to that project.
 
-That is the whole of the permission granted. It is personal to you, it is not
+That is all of the permission granted. It is personal to you, it is not
 exclusive, and it can be withdrawn.
 
 
@@ -31,10 +31,10 @@ Without prior written permission from Vision Force Studio, you may not:
   d. circumvent, disable or tamper with the access controls in it, including the
      account signin and the invite key, or help anyone else to do so;
 
-  e. use it, or anything taken from it, against Epic Games' own online services
+  e. use it, or anything taken from it, against current/latest Epic Games' own online services
      or against other players anywhere else.
 
-Rights in Meridian are licensed, not sold. Nothing here transfers ownership of
+Rights in Meridian are licensed but not sold. Nothing here transfers ownership of
 anything.
 
 
@@ -46,26 +46,26 @@ this file says.
 
 That exception is meant seriously and is not a formality. Several jurisdictions,
 the European Union among them, grant rights of decompilation for
-interoperability, and of observation and study, which cannot be signed away. If
+interoperability, and of observation and study, which cannot be signed away here as well. If
 you have those rights, you keep them, and a clause written to look absolute
 would simply be nothing rather than effective.
 
 If you are looking at Meridian because you found something wrong with it, please
-read SECURITY.md. Reports are welcome and we would rather hear from you rather you abuse it.
+read SECURITY.md. Reports are welcome and we would rather hear from you rather you use them to abuse Meridian or gain advantage.
 
 
 4. THIRD PARTY SOFTWARE
 
 Meridian ships with software written by other people, including a copy of the
-Node.js runtime, and is built on the Tauri framework. Those components are
+Node.js runtime, and is built on Tauri. Those components are
 covered by their own licences, which continue to apply to them and are not
 altered by this file.
 
 
 5. NOT AFFILIATED WITH EPIC GAMES
 
-Rocket Racing Reborn is a fan made preservation project. Vision Force Studio is not
-affiliated with, endorsed by, or sponsored by Epic Games, Inc.  Psyonix LLC.
+Project Rocket Racing Overdrive listed in Meridian is a fan made preservation project. Vision Force Studio is not
+affiliated with, endorsed by, or sponsored by Epic Games, Inc. Psyonix LLC.
 
 "Fortnite", "Fortnite´s Rocket Racing", "Rocket Racing", "Unreal Engine" and all related names, logos,
 characters and assets are the property of Epic Games, Inc. or their respective
@@ -82,10 +82,10 @@ PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Read this part with what Meridian actually does in mind, because it is not
 boilerplate here. To point the game at our servers it changes your hosts file,
-trusts a cert it creates, runs a local server on your machine, closes
+trusts a certificate it creates, runs a local server on your machine, closes
 other programs, and loads our code into the running game with anti cheat
 disabled. All of that is documented in the terms at
-https://visionforceofficial.com/legal, sections 12 to 14. It is offered by
+https://visionforceofficial.com/legal. It is offered by
 volunteers, free, with no guarantee that it works, that it is safe on your
 particular machine, or that it will continue to exist
 
@@ -95,7 +95,7 @@ particular machine, or that it will continue to exist
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL VISION FORCE STUDIO OR
 ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
 AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH MERIDIAN OR THE USE OF OR OTHER DEALINGS IN IT.
+WITH MERIDIAN OR THE USE OF OR OTHER DEALEGATES IN IT.
 
 Nothing in this file excludes or limits liability where the law does not allow it
 to be excluded or limited, including liability for death or personal injury
@@ -105,8 +105,8 @@ caused by negligence, or for fraud.
 8. TERMINATION
 
 This permission ends automatically if you break any part of it, and it ends when
-your access to Rocket Racing Reborn ends. When it ends, stop using Meridian and
-delete your copies. Sections 2 to 7 still apply.
+your access to Meridian and Project Rocket Racing Overdrive ends. When it ends, stop using Meridian and
+delete your copies.
 
 
 ---

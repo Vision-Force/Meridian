@@ -3,8 +3,8 @@
 
   <h1>Meridian</h1>
 
-  <p><strong>The launcher for Project Overdrive.</strong><br>
-  A Vision Force Studio preservation project.</p>
+  <p><strong>The launcher for Project Rocket Racing Overdrive</strong><br>
+  A Vision Force Studio preservation project</p>
 
   <p>
     <a href="https://github.com/Vision-Force/Meridian/releases/latest"><img src="https://img.shields.io/github/v/release/Vision-Force/Meridian?style=flat-square&label=latest&color=e9bd74&labelColor=16130f" alt="Latest release"></a>
@@ -31,10 +31,9 @@
 </picture>
 
 Rocket Racing was removed from Fortnite. [**Project Overdrive**](https://visionforceofficial.com/documentation/project-overdrive) keeps it playable, and Meridian is the
-program that sets it up. Means it points the game at our servers instead of the ones that got sunseted, then starts it, and puts everything back the way you know Rocket Racing
+program that sets it up. Means it points the game at our servers instead of the ones that got sunset, then starts it, and configures everything by itself so you can play Overdrive the way you know Rocket Racing
 
-This repository holds **NO source code**. This only exists so the installer has a permanent, public place that the
-launcher's own auto updater can reach. Releases are on the [releases page](https://github.com/Vision-Force/Meridian/releases).
+This repository holds **NO** *source code*. This only exists so the installer has a temporar, public place that the launcher's own auto updater can reach. Releases are on the [releases page](https://github.com/Vision-Force/Meridian/releases).
 
 <div align="center">
   <br>
@@ -49,9 +48,9 @@ launcher's own auto updater can reach. Releases are on the [releases page](https
   <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-play-light.svg" width="100%" alt="How to play">
 </picture>
 
-Meridian **signs you in, it never signs you up**, and it wont let you do any action before you enter your Vision Force token.
+Meridian **signs you in, it never signs you up**, and it wont let you do anything in it before you enter your Vision Force key.
 
-- VISION FORCE TOKEN
+- VISION FORCE KEY
 1. Make a [Vision Force account](https://visionforceofficial.com/rrr/login)
 2. Request permission [here](https://visionforceofficial.com/rrr/overdrive) to play [Project Overdrive](https://visionforceofficial.com/documentation/project-overdrive)
 3. Someone eventually will read your request, so it is not instant. We email you either way if you get perms or not so you dont feel ignored
@@ -77,14 +76,13 @@ launcher, with two exceptions named below.
 - **Windows asks your permission twice per session.** Once to redirect about 119 Epic hostnames to your own
   machine, once to put them back. That work is done by a separate small program, so the launcher itself
   never runs with those rights.
-- **A certificate is created and trusted**, in your user account's store rather than the computer's. It is
-  restricted to five Epic domains and cannot vouch for any other site, or for any IP address at all.
-- **EMake sure that you dont have any Epic services open while before launching Meridian.** when you press Launch and again when Meridian exits. Anything unsaved in those is lost
+- **A certificate is created and trusted**, in your user account's store. It is
+  restricted to 5 Epic domains and cannot vouch for any other site, or for any IP address at all.
+- **NMake sure that you dont have any Epic services open while/before launching Meridian.** when you press Launch and again when Meridian exits. Anything unsaved in those will be lost
 
-However if Meridian was killed rather than closed correctly, the certificate gets discarded the next time you open Meridian and close it normally. So please close the launcher correctly, otherwise you wont be able to use Epics services.
+However if Meridian was killed rather than closed correctly, the certificate gets discarded the next time you open Meridian and close it normally. So please close the launcher correctly, otherwise you wont be able to use any Epics services afterwards and will have to delete the certificate manually. See [how to delete the certificate manually in](https://meridian.visionforceofficial.com/#faq)
 
-The full detail is in [our terms](https://visionforceofficial.com/legal), sections 12 to 14. They are written
-to be read rather than agreed to
+All other details can be found in [our terms](https://visionforceofficial.com/legal)
 
 <div align="center">
   <br>
@@ -99,11 +97,10 @@ to be read rather than agreed to
   <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/section-updates-light.svg" width="100%" alt="Updates">
 </picture>
 
-Meridian checks for its new version on start and installs it after verifying a signature against a public key
-compiled into the launcher. An update that is not signed by us is refused, which is basically what makes an unauthenticated update feed safe
+Meridian checks for its new version on its start
 
 **All rights reserved.** See [LICENSE](LICENSE). In short: you may download Meridian and run it to play
-Project Overdrive for as long as you have access to our services. You may NOT redistribute it, modify it, or work around the signin
+Project Overdrive for as long as you have access to our services. You may NOT redistribute it, modify it, or work around the signin and use it as advantage
 
 <div align="center">
   <br>
@@ -119,7 +116,7 @@ Project Overdrive for as long as you have access to our services. You may NOT re
 </picture>
 Project Overdrive is a fan made preservation project. Vision Force Studio is **not affiliated with, endorsed
 by, or sponsored by Epic Games, Inc. or Psyonix LLC**. "Rocket Racing", "Fortnite" and "Unreal Engine" and
-all related names, logos and assets belong to Epic Games, Inc. or their respective owners. We do NOT distribute, own or sell Epic's game files
+all related names, logos and assets belong to Epic Games, Inc. or their respective owners.
 
 <a id="something-wrong" name="something-wrong"></a>
 

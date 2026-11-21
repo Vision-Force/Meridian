@@ -19,3 +19,7 @@ Thumbs.db
 # signed/unsigned releases and env
 /releases/
 /to-do/
+
+# README.md
+# SECURITY.md
+# LICENSE
