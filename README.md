@@ -135,6 +135,6 @@ Anything else: [contact@visionforceofficial.com](mailto:contact@visionforceoffic
   <img src="https://raw.githubusercontent.com/Vision-Force/.github/main/profile/repository/Meridian/assets/divider.svg" width="100%" alt="">
   <br>
   <sub>Vision Force Studio &middot; <a href="https://visionforceofficial.com">visionforceofficial.com</a></sub>
-  <sub>Meridian &middot; <a href="https://github.com/Vision-Force/Meridian/releases/tag/v2.0.0">v2.0.0</a></sub>
+  <sub>Meridian &middot; <a href="https://github.com/Vision-Force/Meridian/releases/tag/v2.0.1">v2.0.1</a></sub>
 </div>
  
